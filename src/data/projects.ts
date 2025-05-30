@@ -16,7 +16,7 @@ export const projects: Project[] = [
 • Choose emojis 😜 to add personality to your messages
 • Attach images 🌆 for a more interactive conversation
 • Clean and easy-to-use design`,
-		image: '/images/ai-chatbot.png',
+		image: 'images/ai-chatbot.png',
 		stack: ['React', 'Firebase', 'Gemini API', 'Tailwind CSS'],
 		githubLink: 'https://github.com/XOFFF/ai-chatbot',
 	},
@@ -35,9 +35,9 @@ export const projects: Project[] = [
 • Visit live demos 🌐 and GitHub repositories 🐱
 • Mobile-friendly and accessible design 📱
 • Built with TypeScript for better code quality ✔️`,
-		image: '/images/portfolio.png',
+		image: 'images/portfolio.png',
 		stack: ['TypeScript', 'React', 'Tailwind', 'ChatGPT', 'GitHub', 'Firebase'],
-		liveLink: '/',
+		liveLink: 'https://portfolio-a81c2.web.app/',
 		githubLink: 'https://github.com/XOFFF/my-portfolio'
 	},
 	{
@@ -53,7 +53,7 @@ export const projects: Project[] = [
 • Add, edit, and delete tasks seamlessly
 • Responsive design for mobile and desktop
 • Persistent data for a smooth user experience`,
-		image: '/images/todo.png',
+		image: 'images/todo.png',
 		stack: ['HTML', 'CSS', 'JavaScript', 'GitHub', 'Firebase'],
 		liveLink: 'https://todo-69969.web.app/',
 		githubLink: 'https://github.com/XOFFF/todo',
@@ -62,7 +62,7 @@ export const projects: Project[] = [
 		id: 4,
 		title: 'E-commerce App',
 		description: 'A modern e-commerce web application built with React, TypeScript, and Tailwind CSS, featuring a clean user interface, reusable components, and responsive design. This project showcases core e-commerce functionalities like product listing and dynamic routing.',
-		image: '/images/web-shop.png',
+		image: 'images/web-shop.png',
 		stack: ['React', 'TypeScript', 'Tailwind'],
 		githubLink: 'https://github.com/XOFFF/E-commerce_App'
 	},
@@ -86,7 +86,7 @@ export const projects: Project[] = [
 		id: 6,
 		title: 'Exchange Rate Calculator',
 		description: `React Project Website using FreecurrencyAPI. It was developed by me to get and calculate the current exchange rate with other currencies.`,
-		image: '/images/exchange-rate-calculator.png',
+		image: 'images/exchange-rate-calculator.png',
 		stack: ["React",
   "Microservices",
   "RESTful API",
