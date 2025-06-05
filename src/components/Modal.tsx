@@ -32,7 +32,7 @@ export default function Modal({project, onClose}: ModalProps) {
 			<div className="bg-white rounded-2xl p-6 w-full max-w-3xl shadow-xl transform transition-all duration-300 scale-100 opacity-100 animate-fade-in max-h-[90vh] overflow-y-auto">
 				<button
 					onClick={onClose}
-					className="absolute top-4 right-4 text-gray-500 hover:text-black text-xl"
+					className="cursor-pointer absolute top-4 right-4 text-gray-500 hover:text-black text-xl"
 				>
 					&times;
 				</button>
